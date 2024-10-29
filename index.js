@@ -49,7 +49,7 @@ const server = http.createServer((req, res) => {
   }
 
   if (method === "DELETE") {
-    
+
   }
 });
 server.listen(8080, () => console.log("Server is running"));
